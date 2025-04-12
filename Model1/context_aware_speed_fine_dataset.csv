@@ -1,0 +1,1001 @@
+speed_limit,vehicle_speed,time_of_day,weather,road_type,traffic_density,driver_history,area_sensitivity,fine_probability
+60,57,Afternoon,Clear,Highway,5.7,Good,0,0.57
+70,68,Night,Clear,School Zone,6.6,Moderate,1,0.8
+50,48,Morning,Rainy,Highway,9.0,Good,0,0.71
+70,66,Night,Clear,School Zone,4.0,Good,0,0.6
+70,70,Afternoon,Rainy,Residential,3.3,Bad,0,0.74
+40,36,Afternoon,Clear,School Zone,0.1,Bad,0,0.62
+50,51,Afternoon,Foggy,Highway,8.3,Bad,0,0.84
+50,50,Morning,Foggy,School Zone,8.0,Moderate,0,0.83
+50,49,Evening,Foggy,Highway,1.0,Bad,1,0.73
+70,66,Night,Foggy,Highway,5.8,Good,0,0.59
+60,58,Night,Rainy,Residential,4.6,Bad,0,0.72
+50,53,Evening,Rainy,Residential,1.2,Bad,0,0.75
+80,82,Night,Clear,Highway,9.8,Moderate,0,0.8
+70,66,Morning,Foggy,School Zone,2.1,Moderate,0,0.65
+40,40,Night,Rainy,Highway,0.7,Good,0,0.57
+60,63,Afternoon,Clear,Highway,5.9,Moderate,0,0.75
+80,72,Evening,Clear,School Zone,7.4,Bad,0,0.7
+80,82,Morning,Rainy,School Zone,0.3,Moderate,1,0.79
+40,37,Evening,Foggy,School Zone,6.6,Good,1,0.78
+60,62,Morning,Clear,School Zone,5.3,Bad,0,0.84
+70,67,Afternoon,Foggy,Highway,1.0,Good,0,0.5
+30,21,Evening,Foggy,Highway,1.7,Moderate,0,0.42
+60,52,Night,Foggy,Residential,5.7,Moderate,0,0.54
+40,40,Morning,Clear,Highway,3.0,Good,0,0.57
+80,81,Evening,Foggy,School Zone,9.4,Bad,0,0.89
+70,66,Night,Clear,Residential,8.2,Moderate,0,0.65
+60,63,Evening,Foggy,School Zone,9.8,Moderate,0,0.89
+30,22,Evening,Clear,Highway,2.6,Bad,0,0.49
+30,30,Evening,Foggy,Residential,9.7,Moderate,0,0.8
+50,44,Morning,Rainy,School Zone,4.3,Good,0,0.61
+50,47,Night,Foggy,Residential,3.5,Moderate,0,0.61
+40,40,Afternoon,Foggy,Residential,0.5,Moderate,0,0.61
+60,56,Morning,Clear,Highway,0.5,Bad,0,0.54
+60,59,Morning,Clear,School Zone,6.9,Good,1,0.78
+80,85,Morning,Foggy,Residential,4.6,Bad,0,0.84
+80,78,Afternoon,Rainy,Residential,2.3,Moderate,0,0.61
+80,84,Night,Rainy,School Zone,6.1,Moderate,0,0.86
+50,45,Night,Clear,Residential,2.5,Bad,1,0.63
+60,62,Night,Rainy,Residential,5.8,Bad,0,0.81
+60,67,Evening,Foggy,Residential,3.6,Bad,0,0.85
+30,20,Evening,Clear,School Zone,8.2,Good,1,0.63
+50,47,Evening,Foggy,School Zone,8.2,Moderate,1,0.83
+70,72,Afternoon,Clear,School Zone,4.8,Bad,1,0.87
+50,49,Evening,Clear,School Zone,3.5,Moderate,1,0.76
+70,71,Afternoon,Clear,Highway,3.6,Good,1,0.68
+30,27,Night,Clear,Residential,8.1,Good,0,0.62
+40,40,Evening,Rainy,School Zone,3.3,Good,0,0.72
+60,60,Evening,Foggy,Residential,2.1,Good,0,0.6
+30,35,Morning,Foggy,Residential,0.8,Moderate,0,0.73
+60,61,Afternoon,Foggy,Highway,4.7,Good,0,0.68
+80,81,Night,Clear,School Zone,4.8,Good,0,0.73
+40,38,Morning,Rainy,School Zone,8.4,Bad,0,0.85
+40,38,Morning,Foggy,Residential,2.2,Good,0,0.55
+30,28,Night,Rainy,School Zone,3.8,Bad,0,0.78
+40,41,Morning,Clear,Residential,8.1,Good,0,0.71
+70,68,Afternoon,Foggy,Residential,8.2,Good,0,0.69
+40,41,Afternoon,Rainy,Highway,3.8,Bad,0,0.76
+60,70,Evening,Clear,Highway,4.6,Good,0,0.81
+60,64,Morning,Rainy,Highway,3.0,Moderate,0,0.75
+60,59,Evening,Foggy,Residential,9.3,Moderate,0,0.77
+60,66,Morning,Foggy,School Zone,1.2,Good,0,0.79
+70,68,Afternoon,Clear,Highway,9.3,Moderate,0,0.72
+50,40,Afternoon,Clear,School Zone,6.8,Bad,0,0.64
+80,75,Afternoon,Clear,Highway,5.3,Good,0,0.51
+30,21,Morning,Rainy,Highway,0.3,Good,1,0.41
+60,59,Afternoon,Rainy,Residential,4.8,Bad,0,0.75
+40,40,Morning,Rainy,Highway,4.1,Bad,0,0.75
+60,68,Evening,Clear,Highway,1.6,Bad,0,0.81
+40,41,Morning,Foggy,Residential,6.6,Good,0,0.72
+80,79,Evening,Foggy,School Zone,9.7,Bad,0,0.88
+80,84,Morning,Rainy,Highway,5.6,Bad,0,0.84
+80,69,Evening,Rainy,Residential,7.1,Moderate,0,0.5
+40,41,Afternoon,Foggy,Highway,0.7,Moderate,0,0.64
+60,63,Evening,Foggy,Residential,4.2,Good,0,0.72
+80,73,Afternoon,Rainy,School Zone,1.2,Moderate,0,0.55
+70,75,Afternoon,Rainy,School Zone,6.1,Moderate,0,0.87
+40,41,Evening,Foggy,Residential,9.4,Bad,1,0.88
+40,38,Morning,Clear,Residential,6.6,Bad,0,0.72
+60,63,Morning,Rainy,Residential,0.8,Moderate,0,0.69
+40,51,Night,Foggy,School Zone,3.5,Moderate,0,0.9
+40,40,Morning,Foggy,Highway,5.5,Moderate,0,0.72
+80,81,Night,Foggy,School Zone,4.0,Good,0,0.75
+60,58,Morning,Foggy,Residential,8.3,Good,0,0.7
+80,76,Morning,Clear,Residential,8.1,Good,1,0.67
+80,84,Afternoon,Foggy,School Zone,6.1,Moderate,0,0.86
+60,56,Night,Rainy,Residential,3.7,Moderate,1,0.66
+30,30,Morning,Clear,School Zone,2.6,Good,0,0.66
+80,78,Night,Foggy,Residential,1.1,Good,1,0.6
+70,72,Afternoon,Clear,Highway,3.5,Moderate,0,0.68
+70,71,Afternoon,Rainy,Highway,4.1,Bad,0,0.77
+40,45,Night,Foggy,Residential,6.8,Good,0,0.8
+70,68,Afternoon,Rainy,School Zone,6.6,Moderate,0,0.78
+40,39,Evening,Foggy,Highway,0.7,Moderate,1,0.66
+30,26,Evening,Foggy,School Zone,4.0,Bad,0,0.75
+60,58,Afternoon,Foggy,Residential,1.8,Moderate,0,0.59
+60,61,Evening,Foggy,School Zone,1.6,Moderate,0,0.74
+60,63,Morning,Foggy,Highway,8.3,Good,0,0.79
+70,66,Night,Clear,School Zone,0.4,Good,0,0.51
+30,34,Morning,Foggy,School Zone,4.2,Bad,0,0.87
+70,76,Night,Foggy,Residential,1.7,Bad,0,0.81
+70,72,Afternoon,Clear,Residential,8.8,Moderate,1,0.83
+30,39,Morning,Clear,Residential,5.6,Good,0,0.81
+30,27,Afternoon,Clear,Highway,2.3,Bad,0,0.61
+30,24,Afternoon,Clear,Highway,5.0,Bad,0,0.6
+30,22,Night,Clear,Residential,7.3,Bad,0,0.61
+60,67,Night,Clear,Residential,9.6,Moderate,0,0.87
+50,53,Night,Foggy,Highway,2.2,Good,0,0.67
+50,50,Morning,Foggy,Highway,8.9,Bad,0,0.83
+30,31,Evening,Rainy,Highway,9.3,Good,0,0.77
+50,45,Night,Foggy,Highway,9.2,Bad,1,0.81
+50,62,Night,Foggy,Residential,6.4,Bad,0,0.93
+30,30,Morning,Clear,Highway,6.3,Good,0,0.65
+50,50,Night,Clear,Residential,4.0,Good,1,0.67
+70,73,Morning,Foggy,School Zone,7.5,Good,1,0.88
+40,42,Afternoon,Rainy,School Zone,5.3,Moderate,0,0.82
+40,41,Night,Clear,Highway,6.8,Bad,0,0.78
+30,27,Night,Foggy,School Zone,4.3,Moderate,0,0.72
+60,62,Afternoon,Foggy,School Zone,7.3,Good,1,0.86
+30,39,Afternoon,Rainy,School Zone,8.2,Bad,1,0.96
+60,66,Afternoon,Rainy,Highway,1.5,Moderate,0,0.76
+40,47,Night,Clear,Highway,8.3,Bad,0,0.88
+30,28,Evening,Rainy,School Zone,5.4,Moderate,0,0.76
+80,76,Evening,Foggy,Residential,8.4,Good,0,0.65
+70,70,Evening,Foggy,School Zone,4.3,Moderate,0,0.77
+50,50,Night,Rainy,Highway,3.8,Bad,0,0.75
+60,65,Afternoon,Rainy,Highway,9.2,Bad,1,0.92
+80,72,Night,Rainy,Highway,2.5,Bad,0,0.54
+50,57,Afternoon,Rainy,School Zone,8.4,Bad,0,0.93
+50,50,Night,Clear,Residential,4.8,Good,0,0.62
+30,28,Night,Rainy,Highway,5.1,Moderate,0,0.67
+50,45,Afternoon,Clear,Highway,3.1,Good,0,0.45
+70,62,Evening,Foggy,School Zone,5.7,Good,0,0.59
+80,84,Afternoon,Rainy,Residential,3.3,Good,0,0.72
+50,50,Morning,Clear,School Zone,0.4,Bad,1,0.78
+30,24,Morning,Rainy,Highway,2.7,Bad,0,0.59
+70,64,Afternoon,Foggy,Residential,0.1,Bad,0,0.53
+40,39,Night,Foggy,Residential,9.8,Moderate,0,0.78
+80,88,Morning,Foggy,Highway,9.7,Bad,0,0.92
+50,49,Morning,Rainy,Residential,4.0,Moderate,0,0.67
+30,23,Night,Rainy,Residential,7.3,Bad,0,0.67
+40,39,Night,Clear,School Zone,3.5,Bad,0,0.76
+40,39,Evening,Foggy,Highway,6.7,Good,0,0.68
+60,47,Night,Rainy,Highway,8.1,Good,0,0.43
+70,70,Afternoon,Foggy,Highway,9.5,Good,0,0.76
+50,49,Afternoon,Foggy,Highway,4.0,Moderate,1,0.73
+30,33,Evening,Clear,Highway,7.8,Moderate,1,0.83
+60,69,Morning,Clear,Residential,2.7,Bad,0,0.84
+70,75,Morning,Clear,School Zone,9.9,Moderate,0,0.89
+60,59,Night,Clear,Highway,0.3,Bad,1,0.67
+80,75,Afternoon,Foggy,School Zone,6.0,Moderate,0,0.71
+70,82,Morning,Clear,School Zone,6.6,Moderate,0,0.92
+70,70,Evening,Clear,Residential,6.9,Moderate,1,0.77
+50,50,Evening,Clear,Highway,1.2,Good,0,0.53
+70,70,Afternoon,Clear,Residential,9.4,Moderate,1,0.81
+60,60,Evening,Foggy,Highway,1.8,Good,1,0.66
+70,70,Evening,Clear,Residential,6.2,Good,0,0.65
+50,48,Afternoon,Foggy,School Zone,2.2,Moderate,1,0.75
+50,48,Night,Rainy,Highway,3.1,Bad,0,0.69
+80,80,Night,Foggy,School Zone,5.5,Bad,0,0.84
+60,58,Evening,Foggy,School Zone,4.2,Bad,0,0.79
+40,37,Night,Clear,Residential,1.6,Moderate,0,0.51
+40,40,Night,Rainy,Highway,1.7,Bad,0,0.7
+70,69,Evening,Rainy,School Zone,4.2,Good,0,0.72
+80,87,Night,Rainy,Residential,7.6,Bad,0,0.9
+30,20,Evening,Rainy,Highway,9.0,Moderate,0,0.57
+70,75,Morning,Foggy,Highway,0.8,Bad,0,0.78
+80,86,Afternoon,Rainy,School Zone,3.9,Good,0,0.83
+60,50,Afternoon,Foggy,Highway,1.0,Moderate,1,0.45
+60,59,Night,Foggy,School Zone,0.2,Bad,1,0.79
+60,59,Night,Foggy,Highway,6.6,Moderate,0,0.72
+60,53,Night,Rainy,Residential,6.0,Moderate,1,0.65
+60,57,Afternoon,Clear,School Zone,1.6,Moderate,0,0.61
+80,75,Morning,Clear,School Zone,2.3,Bad,0,0.65
+80,88,Morning,Rainy,Highway,0.2,Moderate,0,0.77
+50,54,Afternoon,Clear,Highway,8.3,Bad,0,0.85
+40,46,Morning,Clear,School Zone,9.7,Good,1,0.91
+60,63,Afternoon,Foggy,Highway,1.4,Bad,0,0.76
+30,25,Morning,Foggy,Residential,2.3,Good,0,0.48
+80,78,Evening,Rainy,Highway,8.7,Bad,0,0.8
+30,32,Evening,Rainy,Residential,9.3,Moderate,0,0.82
+30,24,Afternoon,Clear,Residential,4.2,Bad,0,0.58
+30,33,Morning,Foggy,Residential,0.5,Moderate,0,0.68
+50,49,Night,Rainy,Residential,0.4,Good,0,0.53
+80,79,Morning,Rainy,Residential,5.7,Bad,0,0.76
+30,33,Evening,Rainy,Highway,3.9,Moderate,0,0.75
+60,62,Evening,Rainy,Residential,0.3,Good,0,0.61
+70,69,Morning,Rainy,Highway,5.8,Good,0,0.66
+30,35,Morning,Rainy,Residential,0.1,Bad,0,0.77
+50,45,Night,Clear,School Zone,7.9,Good,0,0.67
+80,83,Night,Foggy,Residential,3.1,Moderate,0,0.73
+50,52,Morning,Foggy,School Zone,0.4,Good,0,0.7
+30,29,Morning,Rainy,Residential,5.9,Good,0,0.67
+80,81,Morning,Foggy,Residential,4.0,Moderate,1,0.77
+70,64,Morning,Foggy,Residential,9.7,Good,0,0.64
+30,34,Afternoon,Foggy,School Zone,5.4,Good,0,0.82
+50,50,Morning,Rainy,School Zone,2.8,Good,1,0.76
+40,38,Night,Rainy,Residential,7.1,Good,0,0.67
+60,65,Evening,Foggy,Highway,2.7,Moderate,0,0.76
+50,47,Afternoon,Foggy,Residential,9.0,Good,0,0.69
+80,73,Morning,Rainy,School Zone,3.7,Moderate,0,0.62
+30,23,Evening,Clear,Residential,5.5,Good,0,0.46
+60,63,Afternoon,Foggy,School Zone,0.5,Good,1,0.78
+30,24,Evening,Clear,School Zone,4.3,Good,0,0.56
+80,88,Morning,Foggy,School Zone,8.3,Good,0,0.9
+30,20,Morning,Clear,Residential,8.1,Moderate,1,0.58
+40,48,Night,Clear,School Zone,2.2,Moderate,1,0.87
+60,61,Morning,Clear,School Zone,2.3,Moderate,0,0.72
+60,60,Morning,Rainy,Residential,8.2,Bad,0,0.82
+80,78,Afternoon,Clear,School Zone,9.3,Good,1,0.81
+40,41,Night,Clear,Residential,1.0,Good,0,0.55
+50,50,Afternoon,Clear,School Zone,4.5,Moderate,0,0.74
+30,35,Evening,Foggy,Highway,3.4,Bad,1,0.86
+70,70,Morning,Clear,Highway,8.7,Good,0,0.7
+30,30,Evening,Foggy,School Zone,0.8,Moderate,0,0.71
+30,29,Afternoon,Clear,Highway,2.1,Good,0,0.53
+50,50,Morning,Clear,Residential,7.5,Good,0,0.68
+30,31,Morning,Rainy,Highway,0.5,Moderate,0,0.63
+40,32,Afternoon,Foggy,School Zone,4.9,Moderate,0,0.62
+40,34,Afternoon,Clear,School Zone,4.4,Good,0,0.56
+60,63,Afternoon,Foggy,Residential,3.3,Good,0,0.7
+80,80,Afternoon,Foggy,School Zone,3.9,Moderate,0,0.77
+70,70,Afternoon,Rainy,Residential,5.3,Good,0,0.67
+30,30,Morning,Rainy,Highway,1.6,Good,0,0.59
+30,31,Afternoon,Rainy,Highway,5.7,Moderate,0,0.74
+50,48,Morning,Rainy,Residential,8.1,Good,0,0.69
+80,77,Morning,Rainy,Residential,7.6,Good,0,0.66
+40,40,Afternoon,Rainy,School Zone,1.5,Bad,0,0.78
+70,66,Afternoon,Rainy,Highway,1.5,Moderate,1,0.61
+60,62,Night,Rainy,Residential,2.7,Bad,0,0.76
+40,32,Morning,Clear,Highway,3.6,Bad,0,0.51
+80,85,Afternoon,Foggy,Residential,4.1,Bad,1,0.87
+60,62,Afternoon,Rainy,Highway,6.8,Good,0,0.75
+50,51,Afternoon,Rainy,School Zone,0.6,Good,0,0.68
+50,54,Night,Foggy,Highway,0.3,Bad,0,0.76
+30,38,Night,Clear,Highway,3.9,Bad,0,0.84
+80,85,Evening,Foggy,Highway,7.0,Bad,1,0.9
+70,61,Morning,Foggy,Highway,1.9,Good,0,0.38
+60,54,Evening,Rainy,Highway,6.4,Bad,0,0.68
+40,37,Afternoon,Foggy,School Zone,2.6,Bad,0,0.74
+80,80,Night,Foggy,Residential,8.9,Moderate,0,0.78
+80,82,Night,Rainy,Highway,9.0,Moderate,0,0.82
+50,47,Evening,Rainy,School Zone,3.0,Good,0,0.65
+30,30,Night,Rainy,Highway,2.3,Moderate,0,0.65
+30,27,Afternoon,Rainy,Highway,4.1,Moderate,0,0.62
+60,57,Night,Foggy,Residential,2.4,Moderate,1,0.65
+50,43,Evening,Foggy,Highway,6.7,Good,1,0.62
+80,76,Afternoon,Clear,School Zone,8.3,Moderate,0,0.74
+70,64,Evening,Clear,School Zone,6.7,Good,0,0.62
+50,46,Night,Foggy,Residential,8.2,Bad,0,0.75
+60,65,Evening,Clear,Highway,4.0,Moderate,0,0.75
+60,56,Evening,Foggy,School Zone,1.6,Good,1,0.66
+50,63,Morning,Clear,Highway,7.4,Moderate,0,0.9
+60,62,Night,Rainy,Highway,3.6,Bad,0,0.78
+50,50,Night,Clear,Highway,6.7,Good,1,0.73
+40,36,Evening,Rainy,Residential,2.7,Good,0,0.52
+50,53,Morning,Rainy,Highway,0.8,Good,1,0.71
+50,48,Night,Rainy,School Zone,9.9,Bad,1,0.9
+60,60,Afternoon,Rainy,Highway,1.6,Bad,0,0.7
+60,72,Evening,Clear,School Zone,9.9,Bad,0,0.96
+30,30,Night,Foggy,Highway,9.8,Good,1,0.81
+30,35,Afternoon,Rainy,School Zone,7.9,Bad,1,0.94
+40,37,Night,Clear,School Zone,6.6,Moderate,0,0.72
+30,30,Afternoon,Rainy,Highway,5.8,Bad,1,0.83
+50,58,Evening,Clear,Highway,8.7,Good,0,0.84
+60,57,Night,Clear,School Zone,2.9,Moderate,0,0.64
+30,39,Night,Clear,Residential,4.7,Bad,1,0.9
+30,33,Morning,Foggy,Highway,6.2,Moderate,0,0.79
+40,38,Evening,Clear,Residential,4.1,Moderate,1,0.67
+80,83,Afternoon,Clear,Highway,4.3,Good,0,0.67
+40,44,Night,Foggy,Highway,3.3,Moderate,0,0.76
+50,53,Night,Foggy,Highway,5.6,Moderate,0,0.78
+60,53,Afternoon,Clear,Highway,8.5,Good,0,0.54
+40,37,Evening,Foggy,Residential,2.0,Good,0,0.52
+30,29,Morning,Rainy,Highway,9.3,Good,0,0.74
+60,60,Morning,Rainy,School Zone,6.9,Moderate,0,0.82
+60,63,Night,Foggy,School Zone,8.2,Moderate,0,0.87
+30,30,Afternoon,Foggy,Residential,5.6,Moderate,0,0.72
+40,34,Night,Clear,Highway,7.8,Good,1,0.62
+30,31,Afternoon,Foggy,School Zone,0.2,Bad,0,0.77
+80,83,Morning,Clear,Residential,8.2,Moderate,0,0.79
+60,62,Evening,Rainy,Highway,0.4,Bad,0,0.72
+70,75,Afternoon,Foggy,School Zone,8.9,Good,0,0.88
+70,74,Morning,Clear,School Zone,9.9,Moderate,0,0.88
+50,52,Night,Clear,Residential,2.9,Bad,0,0.73
+30,30,Afternoon,Rainy,Highway,2.1,Moderate,0,0.65
+30,22,Evening,Foggy,Highway,7.7,Moderate,0,0.59
+50,52,Night,Rainy,School Zone,2.5,Moderate,1,0.82
+50,51,Night,Clear,School Zone,8.7,Bad,0,0.87
+50,51,Morning,Clear,School Zone,1.0,Good,0,0.65
+60,54,Afternoon,Foggy,Highway,1.3,Moderate,0,0.48
+80,75,Night,Clear,Residential,9.8,Good,0,0.62
+30,35,Evening,Foggy,Residential,6.7,Good,0,0.8
+60,60,Afternoon,Rainy,Highway,8.5,Bad,0,0.82
+50,53,Evening,Foggy,Residential,3.2,Bad,0,0.79
+30,30,Night,Foggy,School Zone,6.8,Good,0,0.78
+60,60,Evening,Clear,Residential,5.9,Moderate,0,0.69
+80,84,Morning,Clear,Residential,6.0,Bad,0,0.82
+60,58,Evening,Foggy,Residential,6.8,Moderate,0,0.71
+80,80,Afternoon,Clear,School Zone,5.8,Moderate,0,0.76
+50,48,Evening,Clear,Highway,4.3,Moderate,0,0.61
+80,78,Evening,Clear,School Zone,2.8,Good,0,0.62
+30,29,Morning,Foggy,Highway,7.7,Moderate,0,0.74
+50,51,Evening,Clear,Highway,2.3,Good,0,0.58
+30,28,Evening,Foggy,Highway,6.9,Good,0,0.67
+70,76,Night,Clear,Residential,2.3,Moderate,0,0.74
+40,36,Night,Rainy,Residential,6.3,Moderate,0,0.65
+80,80,Afternoon,Clear,Highway,7.5,Moderate,0,0.72
+40,38,Night,Clear,Highway,2.2,Moderate,0,0.55
+40,47,Night,Foggy,Residential,0.6,Good,0,0.72
+80,80,Night,Foggy,School Zone,1.3,Moderate,0,0.72
+50,55,Night,Clear,Highway,6.1,Moderate,1,0.83
+70,63,Morning,Rainy,School Zone,8.5,Good,0,0.68
+30,31,Night,Clear,Residential,0.4,Bad,0,0.65
+60,64,Morning,Clear,Highway,7.3,Bad,1,0.87
+30,30,Morning,Rainy,School Zone,3.4,Good,1,0.78
+60,65,Night,Foggy,School Zone,4.8,Bad,0,0.89
+30,28,Evening,Clear,School Zone,9.3,Good,0,0.76
+80,87,Morning,Foggy,Residential,3.3,Moderate,0,0.81
+70,81,Evening,Foggy,Residential,4.7,Moderate,0,0.88
+60,59,Evening,Rainy,School Zone,0.1,Bad,0,0.73
+50,48,Night,Rainy,School Zone,0.8,Moderate,0,0.66
+30,37,Afternoon,Foggy,Residential,2.6,Bad,0,0.84
+30,37,Night,Clear,School Zone,0.3,Bad,1,0.87
+60,58,Afternoon,Foggy,School Zone,6.3,Moderate,1,0.82
+50,48,Afternoon,Clear,Residential,4.3,Moderate,0,0.61
+50,49,Night,Clear,School Zone,5.5,Bad,0,0.79
+80,74,Night,Rainy,School Zone,1.7,Moderate,0,0.59
+80,76,Afternoon,Clear,School Zone,3.0,Good,1,0.65
+80,75,Night,Clear,Residential,6.6,Moderate,0,0.59
+80,77,Afternoon,Foggy,School Zone,9.7,Moderate,0,0.81
+80,80,Evening,Rainy,Residential,0.5,Good,0,0.56
+80,81,Night,Clear,Residential,8.9,Moderate,0,0.77
+70,77,Evening,Clear,Highway,5.8,Moderate,0,0.81
+50,46,Morning,Rainy,Highway,5.6,Bad,0,0.7
+80,84,Evening,Foggy,School Zone,5.0,Moderate,0,0.85
+50,49,Evening,Rainy,Residential,0.7,Moderate,0,0.59
+50,50,Afternoon,Rainy,Highway,0.9,Good,0,0.57
+40,43,Evening,Clear,School Zone,6.0,Bad,0,0.86
+70,65,Night,Clear,Highway,3.4,Bad,1,0.65
+80,81,Afternoon,Foggy,Highway,9.2,Bad,1,0.88
+30,30,Morning,Clear,Residential,4.1,Moderate,1,0.71
+60,62,Night,Clear,Residential,1.4,Bad,1,0.76
+30,31,Morning,Rainy,Highway,7.1,Good,0,0.73
+70,82,Evening,Clear,Highway,2.9,Bad,0,0.88
+60,57,Night,Foggy,Residential,5.3,Good,0,0.61
+70,68,Night,Rainy,School Zone,7.0,Bad,1,0.87
+50,47,Morning,Foggy,Residential,9.0,Bad,0,0.79
+60,58,Night,Rainy,Highway,7.9,Good,0,0.69
+50,47,Night,Clear,School Zone,6.8,Bad,1,0.83
+30,35,Night,Rainy,Highway,6.8,Bad,0,0.87
+30,37,Evening,Rainy,School Zone,9.5,Bad,0,0.94
+60,58,Morning,Clear,Highway,3.0,Moderate,0,0.57
+60,56,Night,Clear,School Zone,0.0,Good,0,0.5
+80,82,Afternoon,Foggy,School Zone,2.7,Bad,0,0.83
+70,68,Afternoon,Foggy,Highway,2.2,Good,0,0.55
+80,83,Afternoon,Clear,School Zone,6.6,Good,0,0.8
+70,71,Afternoon,Clear,Residential,6.3,Good,1,0.74
+80,73,Evening,Clear,Highway,5.9,Bad,0,0.6
+50,57,Night,Rainy,Residential,0.2,Bad,0,0.81
+60,68,Morning,Rainy,Highway,7.3,Good,0,0.85
+30,27,Night,Rainy,School Zone,3.2,Moderate,0,0.69
+70,69,Evening,Clear,School Zone,6.7,Good,0,0.73
+70,71,Afternoon,Foggy,School Zone,5.6,Moderate,0,0.81
+30,31,Evening,Clear,Highway,3.4,Good,0,0.61
+80,83,Night,Rainy,Residential,1.3,Good,0,0.65
+70,80,Morning,Rainy,Residential,0.9,Good,0,0.78
+50,50,Evening,Clear,Highway,8.3,Bad,0,0.79
+60,57,Morning,Clear,Highway,9.2,Moderate,0,0.69
+30,24,Evening,Rainy,Residential,6.5,Moderate,0,0.61
+60,57,Morning,Rainy,Residential,1.0,Good,0,0.5
+70,70,Morning,Rainy,Residential,4.0,Bad,1,0.8
+70,78,Afternoon,Clear,Residential,7.3,Bad,0,0.88
+30,28,Morning,Rainy,Highway,7.8,Moderate,0,0.73
+50,51,Afternoon,Rainy,Highway,1.2,Bad,0,0.72
+40,40,Night,Foggy,School Zone,0.0,Moderate,0,0.69
+30,35,Night,Clear,Residential,7.1,Moderate,0,0.8
+40,52,Afternoon,Foggy,School Zone,3.6,Moderate,0,0.91
+80,78,Afternoon,Foggy,Highway,2.5,Bad,0,0.68
+40,38,Evening,Rainy,Highway,0.1,Moderate,0,0.55
+50,55,Evening,Clear,School Zone,5.4,Moderate,0,0.84
+80,83,Evening,Rainy,Residential,8.5,Good,0,0.79
+40,49,Night,Clear,Residential,9.6,Moderate,0,0.89
+80,82,Evening,Foggy,Residential,5.7,Moderate,0,0.76
+40,39,Morning,Clear,Residential,5.1,Good,1,0.67
+50,52,Morning,Rainy,School Zone,0.9,Good,0,0.71
+40,45,Evening,Rainy,School Zone,5.5,Bad,0,0.9
+40,44,Morning,Rainy,Highway,3.8,Moderate,0,0.76
+40,42,Night,Clear,Residential,6.1,Bad,0,0.79
+30,35,Morning,Foggy,Residential,3.9,Bad,0,0.83
+30,35,Night,Foggy,Residential,2.4,Good,0,0.72
+30,36,Afternoon,Clear,School Zone,0.9,Bad,0,0.83
+50,53,Afternoon,Rainy,Residential,3.1,Moderate,0,0.73
+80,80,Afternoon,Foggy,School Zone,1.0,Good,1,0.73
+70,70,Afternoon,Rainy,Residential,1.8,Moderate,0,0.64
+40,46,Morning,Clear,Residential,9.9,Moderate,0,0.86
+40,36,Evening,Rainy,Highway,4.4,Good,1,0.63
+50,51,Morning,Foggy,Residential,5.3,Moderate,1,0.79
+40,39,Night,Foggy,Residential,8.7,Good,0,0.73
+30,30,Morning,Rainy,Highway,10.0,Moderate,0,0.8
+70,76,Morning,Clear,School Zone,5.8,Good,1,0.87
+60,60,Night,Rainy,School Zone,8.1,Bad,0,0.87
+40,40,Afternoon,Clear,Residential,3.3,Moderate,0,0.63
+30,24,Afternoon,Rainy,School Zone,3.1,Good,0,0.58
+60,63,Afternoon,Foggy,Residential,4.0,Moderate,0,0.75
+70,73,Evening,Clear,Highway,6.7,Moderate,0,0.76
+60,70,Night,Clear,Highway,6.8,Moderate,0,0.87
+30,29,Night,Clear,Residential,3.2,Good,0,0.55
+80,81,Morning,Foggy,Highway,1.3,Bad,0,0.72
+80,81,Evening,Rainy,Highway,6.3,Bad,0,0.81
+60,67,Afternoon,Foggy,Residential,1.3,Bad,1,0.86
+50,50,Evening,Clear,Residential,5.8,Good,1,0.71
+60,61,Night,Rainy,Highway,6.9,Bad,0,0.82
+40,43,Night,Foggy,School Zone,7.0,Good,0,0.83
+40,40,Morning,Clear,School Zone,7.5,Moderate,0,0.79
+80,78,Morning,Clear,Residential,8.7,Moderate,0,0.7
+50,50,Night,Foggy,Residential,5.0,Bad,0,0.77
+30,35,Afternoon,Foggy,School Zone,7.3,Good,0,0.86
+40,35,Afternoon,Foggy,Highway,6.2,Moderate,1,0.69
+80,80,Evening,Clear,School Zone,1.9,Good,0,0.64
+70,67,Night,Foggy,School Zone,0.3,Good,0,0.58
+80,85,Night,Clear,School Zone,2.8,Moderate,0,0.8
+40,33,Afternoon,Foggy,School Zone,4.4,Good,0,0.58
+40,38,Afternoon,Clear,Residential,6.2,Moderate,0,0.65
+80,81,Night,Clear,Residential,8.5,Moderate,0,0.76
+30,37,Morning,Rainy,Highway,2.0,Moderate,0,0.79
+60,60,Night,Foggy,Highway,1.3,Good,1,0.65
+40,38,Night,Foggy,Highway,9.6,Moderate,0,0.76
+80,89,Afternoon,Clear,Highway,1.1,Good,1,0.79
+80,73,Afternoon,Clear,School Zone,4.8,Moderate,0,0.59
+50,40,Morning,Clear,Residential,5.9,Moderate,0,0.45
+60,62,Morning,Rainy,Residential,5.4,Bad,0,0.81
+70,68,Evening,Rainy,Highway,0.9,Bad,0,0.64
+30,25,Night,Clear,Highway,0.6,Bad,0,0.51
+70,73,Afternoon,Foggy,School Zone,1.1,Good,0,0.73
+60,61,Morning,Foggy,School Zone,5.9,Good,0,0.78
+60,58,Evening,Rainy,Highway,5.4,Moderate,0,0.68
+60,54,Evening,Rainy,Residential,2.3,Moderate,0,0.51
+70,74,Afternoon,Clear,Residential,6.4,Moderate,0,0.78
+60,63,Afternoon,Foggy,Residential,8.2,Moderate,0,0.82
+80,80,Evening,Clear,Highway,0.4,Good,0,0.51
+70,79,Morning,Rainy,Residential,5.0,Moderate,0,0.86
+60,55,Evening,Foggy,School Zone,6.9,Moderate,1,0.78
+80,73,Night,Foggy,School Zone,2.5,Bad,0,0.66
+50,47,Night,Rainy,Highway,3.1,Moderate,0,0.6
+60,60,Afternoon,Clear,School Zone,6.1,Moderate,0,0.77
+70,71,Morning,Clear,Highway,9.0,Moderate,0,0.77
+40,39,Morning,Foggy,Residential,8.1,Good,0,0.71
+60,61,Night,Rainy,Residential,5.8,Bad,1,0.84
+40,34,Evening,Foggy,Residential,7.3,Moderate,1,0.7
+80,87,Afternoon,Rainy,School Zone,3.6,Moderate,0,0.87
+50,50,Evening,Clear,Highway,6.4,Bad,0,0.76
+30,35,Evening,Rainy,Residential,4.7,Moderate,0,0.8
+50,51,Evening,Clear,Highway,1.9,Good,0,0.57
+60,62,Morning,Rainy,Residential,7.0,Moderate,0,0.79
+40,42,Night,Foggy,School Zone,5.6,Good,0,0.8
+40,42,Morning,Clear,School Zone,3.6,Good,0,0.72
+70,73,Night,Foggy,Highway,9.1,Moderate,1,0.87
+40,46,Afternoon,Foggy,School Zone,0.2,Bad,0,0.85
+70,70,Afternoon,Clear,School Zone,3.2,Good,0,0.67
+80,83,Evening,Clear,Highway,0.6,Bad,1,0.76
+30,30,Night,Foggy,Residential,7.7,Moderate,0,0.76
+60,67,Night,Foggy,School Zone,7.0,Good,1,0.91
+70,67,Night,Foggy,Highway,3.3,Moderate,0,0.61
+30,39,Evening,Foggy,School Zone,6.8,Bad,0,0.94
+40,40,Evening,Clear,School Zone,4.0,Moderate,1,0.79
+40,33,Afternoon,Clear,School Zone,7.6,Moderate,0,0.66
+30,30,Morning,Foggy,School Zone,4.5,Good,0,0.74
+40,37,Night,Rainy,Highway,4.1,Moderate,0,0.62
+80,84,Night,Rainy,Highway,9.3,Moderate,0,0.85
+80,77,Morning,Clear,Highway,2.5,Moderate,0,0.54
+30,28,Night,Foggy,School Zone,1.2,Good,1,0.69
+70,61,Evening,Foggy,School Zone,5.8,Bad,1,0.75
+70,68,Evening,Clear,School Zone,9.7,Bad,1,0.88
+30,20,Night,Rainy,Highway,3.8,Moderate,0,0.45
+70,63,Evening,Rainy,School Zone,0.6,Good,0,0.49
+70,73,Evening,Rainy,Residential,3.4,Moderate,0,0.74
+80,83,Night,Clear,School Zone,5.1,Bad,1,0.88
+70,72,Afternoon,Rainy,Residential,1.6,Good,0,0.64
+50,46,Morning,Clear,School Zone,6.6,Bad,0,0.76
+60,60,Evening,Clear,Highway,10.0,Bad,0,0.82
+40,40,Afternoon,Foggy,School Zone,4.5,Good,0,0.74
+50,45,Evening,Rainy,Residential,3.5,Good,0,0.51
+70,77,Evening,Clear,Residential,4.0,Moderate,1,0.83
+80,84,Morning,Rainy,School Zone,1.2,Moderate,1,0.83
+30,29,Evening,Rainy,Residential,8.8,Bad,0,0.81
+70,70,Morning,Foggy,Residential,4.1,Good,0,0.65
+80,81,Morning,Rainy,Highway,3.9,Good,1,0.73
+60,50,Morning,Foggy,School Zone,6.6,Moderate,0,0.61
+70,69,Afternoon,Clear,School Zone,4.4,Bad,0,0.78
+30,27,Night,Rainy,School Zone,6.5,Bad,0,0.81
+80,75,Afternoon,Clear,Residential,0.6,Moderate,0,0.44
+80,79,Night,Rainy,School Zone,8.1,Good,0,0.79
+80,88,Night,Clear,School Zone,9.4,Moderate,0,0.91
+60,63,Morning,Rainy,Highway,6.5,Moderate,0,0.79
+70,68,Evening,Rainy,Highway,9.5,Moderate,0,0.76
+60,62,Morning,Rainy,Highway,1.5,Moderate,1,0.74
+40,46,Evening,Rainy,Residential,4.8,Good,1,0.83
+40,44,Night,Rainy,School Zone,6.0,Moderate,1,0.89
+70,70,Morning,Rainy,Highway,5.8,Good,0,0.69
+60,57,Evening,Rainy,Highway,4.0,Moderate,0,0.62
+30,33,Afternoon,Rainy,Highway,3.4,Bad,0,0.79
+80,81,Evening,Rainy,School Zone,1.3,Good,1,0.76
+80,84,Morning,Clear,School Zone,3.9,Bad,0,0.84
+70,73,Afternoon,Foggy,School Zone,1.6,Moderate,0,0.78
+40,45,Evening,Rainy,Residential,7.3,Moderate,0,0.84
+40,38,Evening,Foggy,Residential,2.1,Moderate,0,0.6
+80,86,Evening,Rainy,Highway,0.6,Good,0,0.7
+70,70,Evening,Rainy,School Zone,5.5,Bad,1,0.88
+60,70,Evening,Clear,Highway,6.0,Good,1,0.87
+40,37,Afternoon,Clear,School Zone,8.7,Good,0,0.73
+60,68,Night,Foggy,School Zone,5.8,Moderate,1,0.92
+40,40,Afternoon,Clear,School Zone,3.5,Bad,0,0.78
+40,37,Afternoon,Clear,Residential,8.0,Moderate,0,0.67
+50,48,Afternoon,Foggy,Residential,5.4,Good,0,0.63
+40,39,Night,Clear,School Zone,0.8,Moderate,0,0.64
+30,32,Morning,Rainy,Highway,5.7,Bad,0,0.81
+70,72,Night,Foggy,School Zone,9.1,Moderate,1,0.9
+70,68,Afternoon,Foggy,School Zone,4.0,Bad,0,0.79
+60,60,Evening,Rainy,Highway,3.0,Bad,0,0.73
+40,50,Evening,Clear,School Zone,1.4,Moderate,0,0.85
+30,38,Afternoon,Foggy,Highway,1.5,Good,1,0.81
+60,62,Evening,Foggy,Residential,4.3,Moderate,0,0.74
+50,50,Afternoon,Rainy,Residential,6.0,Good,0,0.69
+60,60,Evening,Rainy,Highway,0.8,Good,0,0.57
+60,63,Night,Clear,Residential,9.4,Moderate,0,0.81
+40,35,Morning,Foggy,Residential,7.6,Good,0,0.61
+50,49,Morning,Clear,Highway,5.9,Good,0,0.62
+60,52,Night,Clear,Residential,8.3,Moderate,0,0.56
+30,31,Night,Rainy,School Zone,0.8,Moderate,0,0.73
+30,33,Afternoon,Foggy,School Zone,4.8,Moderate,1,0.87
+70,68,Afternoon,Foggy,Highway,6.3,Good,0,0.65
+50,57,Afternoon,Foggy,Residential,8.3,Bad,0,0.9
+50,44,Evening,Rainy,School Zone,7.8,Good,1,0.75
+70,63,Afternoon,Rainy,School Zone,2.8,Bad,0,0.66
+60,61,Night,Rainy,Residential,9.4,Moderate,1,0.85
+50,55,Morning,Rainy,Residential,1.2,Bad,0,0.79
+30,38,Evening,Rainy,School Zone,8.8,Moderate,0,0.92
+30,28,Afternoon,Foggy,School Zone,9.7,Moderate,0,0.83
+40,45,Evening,Clear,Highway,1.8,Bad,1,0.81
+50,50,Evening,Foggy,Highway,7.2,Moderate,0,0.75
+60,60,Afternoon,Clear,School Zone,0.4,Bad,0,0.72
+70,74,Evening,Rainy,Highway,4.1,Moderate,1,0.82
+70,73,Morning,Clear,School Zone,5.2,Good,0,0.77
+60,53,Night,Foggy,School Zone,5.8,Good,0,0.62
+80,87,Night,Foggy,Highway,9.4,Moderate,0,0.88
+40,46,Morning,Clear,Highway,6.7,Moderate,0,0.81
+70,67,Evening,Rainy,Residential,4.8,Bad,0,0.71
+50,51,Afternoon,Rainy,Residential,8.1,Good,0,0.75
+40,42,Evening,Foggy,Residential,9.5,Bad,0,0.86
+50,51,Morning,Clear,School Zone,0.2,Moderate,0,0.67
+30,28,Evening,Rainy,Highway,9.8,Moderate,1,0.81
+40,37,Night,Rainy,School Zone,0.9,Bad,1,0.77
+70,70,Evening,Foggy,Highway,8.1,Moderate,0,0.77
+40,45,Morning,Rainy,School Zone,2.8,Good,1,0.84
+40,42,Night,Clear,Residential,1.3,Bad,0,0.7
+40,39,Evening,Foggy,Residential,4.4,Good,0,0.63
+80,83,Evening,Foggy,Residential,6.4,Good,0,0.76
+40,26,Night,Clear,School Zone,3.8,Good,0,0.35
+50,55,Afternoon,Foggy,Highway,0.5,Bad,0,0.78
+30,22,Night,Rainy,Highway,6.0,Moderate,1,0.62
+60,59,Afternoon,Rainy,Residential,9.0,Good,0,0.73
+40,35,Morning,Clear,Residential,3.8,Good,1,0.54
+70,64,Morning,Rainy,Residential,2.2,Good,0,0.46
+40,45,Night,Clear,Residential,4.4,Moderate,0,0.76
+70,68,Night,Clear,Highway,0.5,Moderate,0,0.51
+50,51,Morning,Rainy,School Zone,8.2,Bad,0,0.88
+70,70,Afternoon,Clear,School Zone,8.3,Moderate,0,0.81
+60,62,Morning,Rainy,School Zone,5.9,Bad,0,0.87
+30,30,Night,Foggy,School Zone,3.5,Bad,0,0.81
+70,64,Morning,Foggy,Residential,8.0,Bad,0,0.71
+70,74,Night,Clear,Residential,5.5,Bad,0,0.81
+30,28,Night,Rainy,Residential,8.3,Bad,0,0.79
+60,53,Morning,Rainy,School Zone,6.3,Good,1,0.7
+40,38,Afternoon,Foggy,Residential,7.8,Moderate,0,0.73
+70,77,Evening,Foggy,Residential,6.0,Good,0,0.82
+30,34,Morning,Rainy,Highway,4.1,Bad,1,0.86
+50,49,Evening,Clear,Highway,9.6,Moderate,0,0.74
+30,29,Morning,Foggy,Residential,5.4,Good,0,0.65
+50,49,Evening,Clear,Highway,6.1,Good,1,0.69
+60,70,Afternoon,Clear,Highway,2.2,Bad,0,0.85
+40,41,Afternoon,Foggy,Residential,6.3,Good,0,0.72
+30,32,Morning,Clear,Residential,5.7,Good,0,0.68
+80,85,Night,Clear,Residential,1.8,Good,1,0.73
+70,71,Evening,Rainy,Residential,0.6,Good,1,0.66
+60,59,Night,Clear,School Zone,6.0,Good,0,0.71
+30,30,Night,Rainy,School Zone,7.6,Bad,0,0.87
+70,70,Night,Foggy,Residential,5.2,Bad,0,0.77
+30,30,Afternoon,Foggy,Highway,2.3,Good,0,0.61
+50,53,Morning,Rainy,Residential,6.7,Bad,0,0.84
+30,30,Morning,Foggy,Residential,0.8,Bad,0,0.69
+80,83,Afternoon,Clear,Highway,4.4,Moderate,1,0.78
+30,30,Afternoon,Clear,School Zone,1.6,Good,1,0.7
+30,30,Morning,Clear,Residential,1.8,Bad,0,0.66
+80,71,Night,Foggy,Residential,2.0,Bad,0,0.5
+60,64,Evening,Clear,School Zone,3.9,Good,0,0.77
+30,31,Evening,Foggy,School Zone,0.5,Moderate,0,0.72
+80,84,Evening,Clear,Highway,4.0,Good,0,0.69
+70,56,Night,Rainy,School Zone,5.1,Moderate,1,0.55
+50,60,Morning,Foggy,School Zone,4.8,Good,0,0.89
+50,50,Afternoon,Foggy,School Zone,3.8,Good,0,0.73
+30,35,Morning,Clear,Highway,8.4,Good,0,0.79
+60,55,Night,Foggy,School Zone,1.5,Good,0,0.56
+60,63,Afternoon,Foggy,School Zone,5.1,Moderate,0,0.83
+70,65,Night,Rainy,Highway,0.6,Moderate,0,0.49
+30,27,Evening,Rainy,School Zone,0.7,Bad,0,0.7
+50,59,Evening,Clear,School Zone,5.7,Good,1,0.9
+60,60,Night,Rainy,Highway,5.7,Moderate,0,0.73
+30,31,Afternoon,Clear,Residential,8.8,Moderate,0,0.76
+60,64,Afternoon,Clear,Highway,5.6,Moderate,0,0.76
+80,82,Morning,Clear,School Zone,9.6,Good,0,0.83
+60,60,Evening,Foggy,School Zone,0.5,Bad,0,0.76
+50,51,Morning,Rainy,School Zone,1.0,Moderate,0,0.73
+40,52,Morning,Clear,Highway,0.4,Good,0,0.78
+70,70,Night,Rainy,School Zone,1.9,Moderate,0,0.73
+70,71,Night,Clear,School Zone,5.4,Moderate,0,0.78
+50,55,Morning,Rainy,Highway,6.5,Bad,0,0.86
+60,65,Evening,Rainy,Residential,0.5,Moderate,1,0.78
+30,35,Night,Clear,Residential,9.5,Moderate,0,0.84
+60,63,Morning,Foggy,School Zone,8.4,Good,0,0.85
+50,45,Morning,Rainy,Highway,3.0,Good,0,0.5
+70,78,Morning,Foggy,School Zone,0.8,Bad,0,0.88
+60,55,Morning,Foggy,Highway,1.7,Good,1,0.54
+70,71,Morning,Clear,Highway,1.3,Good,0,0.56
+30,27,Morning,Clear,Residential,1.2,Bad,1,0.65
+70,70,Night,Clear,Residential,5.2,Moderate,1,0.73
+70,71,Evening,Rainy,Highway,2.5,Bad,0,0.74
+40,41,Morning,Clear,School Zone,3.6,Good,0,0.7
+40,42,Afternoon,Clear,Residential,9.9,Bad,0,0.84
+80,88,Night,Rainy,School Zone,6.8,Moderate,1,0.93
+40,42,Night,Rainy,Residential,9.5,Bad,0,0.86
+70,69,Morning,Clear,Residential,1.4,Good,0,0.51
+50,54,Night,Clear,School Zone,3.8,Good,0,0.76
+70,75,Morning,Clear,Residential,5.5,Bad,0,0.82
+50,44,Evening,Clear,Residential,0.8,Moderate,0,0.42
+50,52,Evening,Foggy,School Zone,0.0,Bad,0,0.79
+40,43,Night,Foggy,Residential,6.7,Moderate,0,0.8
+60,59,Night,Clear,Residential,6.4,Moderate,1,0.74
+30,36,Afternoon,Foggy,Residential,4.1,Bad,0,0.85
+40,40,Night,Rainy,School Zone,4.9,Moderate,0,0.78
+40,40,Afternoon,Foggy,Highway,4.2,Good,0,0.65
+60,60,Evening,Foggy,School Zone,0.2,Bad,0,0.75
+30,30,Evening,Clear,Highway,3.4,Moderate,0,0.63
+70,65,Morning,Foggy,Residential,1.8,Good,0,0.47
+80,73,Evening,Foggy,Highway,1.0,Bad,0,0.52
+80,87,Afternoon,Foggy,School Zone,9.6,Good,0,0.91
+70,66,Night,Foggy,School Zone,6.0,Good,0,0.69
+40,36,Morning,Rainy,Residential,7.3,Good,0,0.63
+30,20,Afternoon,Clear,Highway,3.2,Moderate,0,0.38
+40,37,Night,Clear,Residential,3.9,Bad,0,0.64
+50,44,Morning,Rainy,Residential,2.4,Bad,0,0.58
+40,48,Evening,Foggy,School Zone,1.0,Moderate,0,0.85
+40,45,Afternoon,Rainy,Highway,1.8,Bad,0,0.8
+70,67,Night,Foggy,Highway,8.0,Good,0,0.67
+70,81,Morning,Rainy,Highway,6.8,Bad,1,0.94
+70,74,Morning,Clear,Highway,5.5,Moderate,1,0.81
+80,79,Evening,Clear,Residential,4.8,Good,0,0.59
+50,38,Night,Clear,Residential,9.2,Moderate,0,0.48
+70,81,Evening,Foggy,School Zone,0.7,Good,1,0.89
+30,24,Evening,Foggy,Residential,2.8,Good,0,0.47
+80,72,Night,Rainy,Residential,3.5,Bad,0,0.56
+60,65,Night,Rainy,School Zone,7.8,Good,1,0.9
+30,42,Night,Clear,School Zone,9.9,Moderate,0,0.94
+30,36,Afternoon,Foggy,School Zone,2.4,Bad,0,0.87
+70,72,Night,Rainy,Residential,8.7,Moderate,0,0.81
+60,62,Morning,Foggy,Residential,8.3,Good,0,0.77
+60,64,Evening,Foggy,School Zone,2.2,Moderate,0,0.81
+80,83,Afternoon,Clear,School Zone,4.0,Moderate,0,0.79
+60,61,Night,Clear,School Zone,4.1,Good,0,0.71
+50,50,Afternoon,Foggy,Residential,9.8,Bad,0,0.84
+70,70,Night,Foggy,Residential,1.8,Moderate,0,0.64
+60,57,Afternoon,Foggy,Highway,8.0,Good,0,0.67
+80,79,Evening,Foggy,Residential,3.3,Bad,0,0.72
+50,42,Evening,Clear,Residential,7.3,Bad,0,0.61
+40,40,Morning,Rainy,Residential,4.2,Bad,0,0.75
+40,36,Morning,Clear,School Zone,5.8,Moderate,1,0.75
+50,45,Night,Rainy,Residential,8.3,Moderate,0,0.67
+80,80,Evening,Foggy,School Zone,8.0,Moderate,0,0.83
+50,56,Afternoon,Rainy,Highway,8.7,Bad,0,0.9
+70,74,Afternoon,Clear,Highway,0.6,Moderate,0,0.66
+70,63,Afternoon,Clear,School Zone,6.9,Good,0,0.6
+40,36,Morning,Foggy,School Zone,1.4,Moderate,0,0.63
+60,64,Afternoon,Clear,School Zone,4.2,Moderate,0,0.81
+80,76,Morning,Foggy,Residential,5.5,Bad,0,0.7
+40,39,Morning,Clear,Highway,4.0,Moderate,1,0.69
+60,62,Night,Clear,School Zone,5.2,Good,1,0.81
+60,56,Afternoon,Foggy,Residential,10.0,Bad,0,0.79
+70,70,Afternoon,Rainy,Highway,1.4,Good,0,0.58
+30,24,Evening,Clear,Residential,6.8,Bad,0,0.64
+30,27,Night,Rainy,Highway,4.0,Bad,0,0.69
+50,51,Evening,Clear,Residential,1.3,Moderate,0,0.61
+70,63,Night,Clear,Highway,1.6,Good,0,0.37
+60,62,Afternoon,Clear,Highway,9.5,Bad,1,0.88
+80,80,Morning,Clear,Residential,8.8,Moderate,0,0.75
+30,32,Morning,Rainy,School Zone,9.1,Bad,0,0.9
+60,61,Morning,Rainy,Highway,9.9,Bad,0,0.86
+30,36,Morning,Clear,School Zone,2.1,Bad,0,0.85
+30,30,Morning,Clear,Residential,3.6,Bad,0,0.7
+30,28,Evening,Rainy,School Zone,6.7,Bad,0,0.83
+80,80,Night,Foggy,School Zone,4.8,Bad,1,0.87
+70,72,Afternoon,Foggy,School Zone,4.2,Moderate,0,0.81
+80,80,Evening,Rainy,School Zone,3.6,Bad,0,0.81
+40,40,Night,Clear,School Zone,5.9,Good,1,0.78
+60,57,Morning,Clear,Highway,5.8,Moderate,0,0.62
+70,67,Night,Foggy,Highway,1.6,Good,0,0.51
+70,63,Night,Foggy,Highway,4.7,Bad,0,0.62
+70,78,Morning,Rainy,Residential,5.5,Good,0,0.82
+70,64,Morning,Foggy,School Zone,5.7,Bad,0,0.74
+80,77,Morning,Rainy,Highway,2.1,Bad,0,0.65
+70,67,Afternoon,Foggy,Residential,7.4,Moderate,1,0.76
+50,54,Morning,Foggy,Highway,0.3,Moderate,0,0.7
+60,59,Afternoon,Foggy,Highway,3.5,Bad,0,0.72
+70,76,Morning,Clear,School Zone,7.8,Moderate,0,0.88
+60,57,Afternoon,Clear,Residential,5.6,Good,0,0.56
+50,51,Night,Clear,School Zone,2.6,Moderate,0,0.72
+50,46,Evening,Foggy,School Zone,6.9,Moderate,0,0.75
+60,70,Night,Rainy,Highway,5.7,Good,0,0.85
+30,25,Night,Rainy,School Zone,8.0,Moderate,0,0.75
+40,41,Morning,Rainy,Residential,7.4,Bad,1,0.86
+30,33,Afternoon,Rainy,School Zone,6.1,Good,0,0.82
+30,32,Evening,Clear,School Zone,4.9,Bad,0,0.83
+80,80,Morning,Clear,School Zone,1.3,Good,1,0.7
+30,30,Morning,Foggy,Highway,2.6,Bad,0,0.72
+70,70,Morning,Foggy,Residential,4.2,Bad,0,0.75
+80,80,Night,Rainy,Highway,6.0,Moderate,1,0.79
+80,84,Afternoon,Clear,Highway,5.1,Bad,0,0.8
+50,61,Afternoon,Rainy,Highway,2.9,Moderate,0,0.86
+30,28,Evening,Foggy,Highway,0.1,Good,0,0.5
+50,44,Afternoon,Foggy,Highway,5.0,Bad,0,0.65
+60,60,Afternoon,Rainy,Residential,2.9,Bad,0,0.73
+40,52,Morning,Foggy,School Zone,7.3,Good,0,0.93
+80,76,Morning,Rainy,Highway,0.2,Good,0,0.46
+60,68,Night,Clear,Highway,5.8,Bad,0,0.87
+60,68,Morning,Rainy,Residential,9.4,Good,0,0.87
+70,68,Morning,Clear,Residential,1.7,Moderate,0,0.54
+40,42,Morning,Clear,School Zone,4.7,Good,1,0.8
+60,68,Morning,Foggy,Residential,0.9,Good,0,0.75
+60,59,Night,Foggy,School Zone,6.3,Bad,1,0.87
+40,39,Morning,Foggy,Highway,5.5,Moderate,0,0.7
+40,38,Evening,Rainy,Highway,4.1,Good,0,0.6
+60,55,Evening,Rainy,School Zone,5.2,Moderate,0,0.69
+40,37,Evening,Foggy,Residential,9.0,Moderate,0,0.73
+60,54,Evening,Rainy,School Zone,2.0,Moderate,0,0.6
+60,60,Morning,Foggy,Residential,0.2,Bad,0,0.67
+70,67,Evening,Rainy,Highway,8.6,Good,0,0.68
+30,31,Morning,Clear,Residential,5.8,Bad,0,0.76
+60,53,Night,Clear,School Zone,8.9,Good,0,0.64
+50,51,Evening,Foggy,School Zone,6.0,Good,0,0.79
+80,84,Afternoon,Rainy,Highway,8.1,Bad,0,0.87
+30,21,Evening,Rainy,Residential,4.3,Moderate,0,0.48
+30,31,Evening,Clear,Residential,7.5,Moderate,0,0.74
+30,36,Morning,Clear,Residential,9.1,Good,0,0.82
+70,64,Evening,Foggy,Highway,5.7,Bad,0,0.66
+60,68,Afternoon,Clear,Residential,1.8,Moderate,1,0.81
+70,72,Morning,Foggy,School Zone,2.7,Moderate,0,0.78
+60,57,Morning,Clear,Residential,2.0,Good,0,0.48
+70,70,Night,Clear,Highway,2.5,Good,0,0.56
+70,72,Night,Rainy,Residential,3.1,Bad,1,0.82
+80,80,Evening,Clear,Residential,5.6,Good,0,0.64
+50,52,Night,Clear,School Zone,5.9,Moderate,1,0.84
+70,66,Night,Foggy,Residential,4.3,Moderate,0,0.61
+80,80,Night,Clear,School Zone,6.2,Moderate,0,0.77
+40,33,Morning,Foggy,School Zone,0.8,Moderate,1,0.62
+50,50,Morning,Clear,Highway,0.9,Bad,0,0.64
+70,66,Morning,Clear,School Zone,1.7,Bad,0,0.66
+30,27,Night,Foggy,School Zone,5.2,Good,0,0.69
+40,46,Morning,Rainy,Highway,2.1,Good,1,0.79
+40,45,Night,Foggy,School Zone,2.8,Good,0,0.8
+80,83,Morning,Foggy,Highway,4.0,Bad,0,0.8
+40,35,Morning,Foggy,Residential,8.1,Moderate,0,0.67
+50,49,Afternoon,Rainy,Highway,0.1,Good,0,0.53
+70,76,Evening,Clear,School Zone,6.5,Moderate,1,0.9
+70,70,Night,Foggy,Highway,6.7,Good,0,0.7
+30,41,Afternoon,Foggy,School Zone,8.0,Good,0,0.92
+80,81,Morning,Rainy,Residential,9.3,Good,1,0.82
+30,30,Night,Foggy,Highway,0.2,Good,0,0.55
+40,39,Morning,Clear,Residential,1.5,Good,0,0.51
+30,30,Evening,Rainy,School Zone,8.9,Moderate,0,0.84
+50,50,Afternoon,Clear,School Zone,4.6,Good,0,0.7
+70,73,Evening,Clear,Residential,5.6,Moderate,0,0.74
+40,44,Afternoon,Rainy,Highway,6.6,Bad,0,0.85
+30,27,Morning,Foggy,Highway,6.8,Good,0,0.64
+80,74,Evening,Clear,School Zone,9.3,Moderate,0,0.72
+50,41,Evening,Clear,Residential,10.0,Bad,1,0.71
+50,52,Morning,Clear,Residential,7.2,Bad,0,0.81
+30,25,Evening,Clear,Highway,2.9,Bad,0,0.57
+70,60,Night,Rainy,Highway,8.8,Moderate,0,0.57
+30,31,Afternoon,Rainy,Highway,0.5,Good,1,0.66
+40,52,Afternoon,Clear,Residential,2.3,Good,0,0.81
+30,30,Afternoon,Foggy,Highway,9.0,Moderate,0,0.79
+50,54,Night,Clear,Highway,2.6,Good,0,0.66
+30,30,Afternoon,Foggy,School Zone,2.2,Moderate,0,0.73
+70,70,Morning,Clear,Highway,1.4,Good,0,0.53
+80,84,Evening,Foggy,Highway,8.6,Bad,0,0.88
+60,59,Night,Clear,Residential,5.0,Good,0,0.6
+30,31,Afternoon,Foggy,Residential,6.7,Moderate,1,0.81
+70,71,Morning,Clear,School Zone,2.4,Moderate,0,0.72
+70,67,Evening,Clear,Highway,7.6,Bad,0,0.72
+80,84,Evening,Foggy,School Zone,7.6,Moderate,0,0.88
+50,50,Night,Rainy,Residential,3.1,Good,0,0.62
+70,67,Night,Foggy,School Zone,4.1,Good,0,0.67
+70,72,Night,Rainy,Residential,2.1,Bad,0,0.75
+70,66,Morning,Clear,School Zone,9.8,Moderate,0,0.76
+70,70,Morning,Foggy,School Zone,6.5,Bad,0,0.85
+40,40,Night,Foggy,Highway,9.3,Good,0,0.76
+40,45,Afternoon,Foggy,School Zone,3.0,Bad,0,0.87
+50,52,Evening,Rainy,Highway,7.8,Moderate,0,0.8
+30,30,Evening,Rainy,Highway,7.7,Bad,0,0.81
+70,74,Morning,Clear,Highway,6.9,Moderate,0,0.78
+80,86,Evening,Rainy,Highway,9.7,Moderate,0,0.88
+30,32,Afternoon,Rainy,School Zone,3.9,Good,0,0.77
+80,80,Evening,Clear,Residential,1.3,Good,1,0.61
+30,24,Morning,Foggy,Residential,6.7,Good,0,0.57
+50,45,Morning,Foggy,Residential,7.3,Moderate,0,0.65
+70,69,Afternoon,Clear,School Zone,5.8,Bad,0,0.8
+70,67,Afternoon,Foggy,Highway,2.1,Moderate,0,0.58
+60,60,Evening,Rainy,Residential,5.0,Good,0,0.67
+80,80,Evening,Clear,School Zone,3.1,Good,1,0.73
+30,32,Morning,Clear,Highway,4.3,Bad,0,0.76
+30,30,Afternoon,Clear,Residential,6.5,Good,1,0.72
+40,42,Afternoon,Foggy,Highway,7.5,Good,1,0.81
+60,60,Afternoon,Clear,Residential,2.3,Good,0,0.56
+40,31,Evening,Clear,Residential,4.1,Bad,0,0.5
+40,36,Afternoon,Clear,Residential,2.7,Moderate,0,0.52
+40,40,Morning,Foggy,Highway,2.0,Good,0,0.6
+80,74,Morning,Rainy,School Zone,7.8,Bad,1,0.83
+80,82,Evening,Clear,Highway,9.1,Good,0,0.75
+50,57,Night,Rainy,Residential,3.7,Bad,1,0.89
+50,56,Evening,Foggy,Highway,7.5,Good,0,0.82
+40,39,Night,Foggy,School Zone,9.0,Bad,1,0.9
+60,67,Afternoon,Foggy,Highway,8.5,Good,1,0.89
+30,30,Evening,Foggy,School Zone,1.8,Moderate,0,0.73
+80,79,Morning,Rainy,School Zone,9.6,Good,0,0.81
+60,57,Afternoon,Clear,Highway,3.8,Bad,0,0.64
+70,69,Morning,Foggy,Residential,3.4,Good,1,0.68
+80,79,Afternoon,Foggy,School Zone,0.6,Moderate,1,0.74
+80,80,Evening,Rainy,Highway,4.9,Good,0,0.67
+50,50,Night,Rainy,School Zone,1.1,Bad,0,0.77
+30,30,Afternoon,Foggy,Residential,2.5,Bad,0,0.72
+30,32,Night,Clear,Highway,3.2,Moderate,1,0.73
+70,75,Afternoon,Clear,Highway,8.1,Bad,0,0.86
+70,74,Morning,Foggy,Highway,8.8,Good,1,0.86
+80,73,Morning,Rainy,Residential,3.0,Good,0,0.45
+40,28,Afternoon,Foggy,School Zone,8.6,Good,0,0.56
+50,54,Night,Foggy,Highway,8.6,Bad,0,0.88
+50,44,Evening,Rainy,School Zone,7.6,Good,0,0.68
+80,79,Evening,Foggy,School Zone,1.5,Good,0,0.66
+60,55,Morning,Foggy,Residential,6.9,Good,0,0.6
+40,31,Evening,Foggy,Highway,9.5,Moderate,0,0.61
+80,82,Morning,Rainy,School Zone,6.8,Bad,0,0.88
+40,43,Evening,Clear,Highway,3.3,Bad,0,0.76
+40,38,Afternoon,Clear,Highway,5.0,Bad,0,0.69
+40,28,Morning,Rainy,Residential,6.5,Moderate,1,0.54
+80,78,Morning,Clear,Highway,5.1,Bad,0,0.69
+50,51,Afternoon,Foggy,Highway,1.2,Moderate,1,0.72
+50,43,Morning,Clear,School Zone,3.1,Moderate,0,0.55
+40,40,Evening,Foggy,Residential,8.0,Bad,0,0.82
+60,60,Evening,Clear,Highway,8.6,Good,0,0.7
+30,32,Morning,Rainy,School Zone,1.4,Good,0,0.72
+80,80,Evening,Clear,Residential,9.5,Bad,0,0.81
+30,26,Night,Clear,Residential,3.3,Bad,0,0.61
+60,65,Morning,Clear,School Zone,6.6,Moderate,0,0.85
+80,80,Afternoon,Rainy,School Zone,7.5,Bad,0,0.86
+40,40,Night,Clear,School Zone,8.1,Moderate,0,0.8
+50,46,Morning,Rainy,School Zone,9.5,Bad,0,0.84
+30,28,Afternoon,Foggy,School Zone,3.1,Good,0,0.67
+70,66,Evening,Clear,Highway,8.6,Good,0,0.61
+70,70,Afternoon,Rainy,Highway,1.3,Bad,0,0.7
+60,68,Night,Rainy,Residential,7.1,Moderate,0,0.87
+40,34,Evening,Clear,Highway,7.4,Good,0,0.53
+30,22,Morning,Foggy,Highway,6.8,Moderate,1,0.64
+40,47,Evening,Rainy,Highway,2.5,Bad,1,0.88
+30,29,Morning,Clear,School Zone,8.7,Bad,0,0.84
+60,57,Morning,Foggy,Residential,1.7,Good,0,0.52
+60,65,Afternoon,Rainy,Residential,0.5,Bad,0,0.78
+70,67,Afternoon,Rainy,Residential,7.2,Good,0,0.65
+40,49,Afternoon,Foggy,Residential,4.8,Moderate,0,0.86
+80,83,Night,Foggy,Highway,8.5,Good,0,0.79
+70,68,Night,Clear,Highway,3.8,Good,0,0.54
+40,50,Afternoon,Clear,School Zone,1.7,Moderate,0,0.85
+70,67,Night,Rainy,Residential,8.4,Good,0,0.68
+80,83,Evening,Foggy,Highway,5.5,Good,0,0.74
+50,51,Evening,Foggy,Highway,1.9,Bad,0,0.73
+50,56,Night,Foggy,School Zone,7.2,Moderate,0,0.89
+50,57,Night,Rainy,School Zone,5.1,Good,0,0.86
+50,50,Evening,Foggy,School Zone,6.0,Moderate,0,0.8
+30,27,Morning,Foggy,Highway,4.6,Moderate,0,0.64
+50,52,Evening,Rainy,Highway,8.3,Good,0,0.77
+80,77,Evening,Clear,School Zone,8.3,Bad,0,0.81
+60,70,Night,Clear,Residential,7.1,Moderate,1,0.9
+60,60,Evening,Rainy,School Zone,1.1,Good,0,0.67
+30,29,Night,Foggy,School Zone,8.4,Moderate,1,0.86
+50,50,Night,Rainy,School Zone,6.7,Bad,0,0.85
+50,44,Afternoon,Clear,School Zone,7.0,Bad,0,0.73
+50,46,Evening,Clear,Highway,3.6,Bad,0,0.61
+70,76,Morning,Rainy,Residential,8.8,Good,0,0.84
+40,37,Afternoon,Rainy,School Zone,7.3,Good,0,0.74
+70,65,Night,Clear,Residential,1.1,Bad,0,0.53
+40,42,Night,Rainy,Residential,4.1,Good,0,0.69
+50,55,Morning,Clear,Residential,8.9,Bad,1,0.9
+50,53,Night,Rainy,School Zone,0.5,Good,0,0.72
+70,74,Evening,Rainy,Highway,9.6,Bad,0,0.89
+70,67,Afternoon,Rainy,School Zone,6.8,Moderate,0,0.76
+40,33,Night,Clear,Residential,6.3,Bad,0,0.61
+60,67,Night,Rainy,Residential,2.7,Bad,1,0.88
+40,39,Morning,Clear,Highway,2.5,Good,1,0.61
+70,69,Evening,Clear,School Zone,9.4,Good,1,0.82
+80,86,Night,Rainy,Residential,3.0,Good,0,0.75
+70,72,Morning,Rainy,Highway,7.8,Good,0,0.76
+80,82,Night,Clear,Residential,3.9,Good,0,0.64
+30,40,Morning,Clear,Highway,1.4,Good,1,0.81
+70,67,Morning,Foggy,Highway,0.1,Moderate,0,0.53
+30,34,Evening,Clear,School Zone,5.4,Bad,0,0.86
+60,60,Night,Foggy,Residential,9.8,Bad,0,0.84
+40,41,Evening,Foggy,School Zone,3.7,Bad,0,0.83
+80,87,Morning,Foggy,Residential,3.6,Moderate,0,0.81
+40,42,Afternoon,Rainy,School Zone,3.4,Bad,0,0.84
+30,32,Night,Rainy,Residential,5.2,Moderate,1,0.81
+80,85,Afternoon,Clear,School Zone,4.4,Moderate,1,0.86
+40,39,Night,Foggy,Highway,8.8,Moderate,0,0.76
+70,66,Evening,Rainy,Residential,5.1,Bad,0,0.69
+50,45,Evening,Rainy,Residential,5.1,Moderate,1,0.67
+30,21,Evening,Rainy,Highway,1.4,Bad,1,0.56
+40,50,Evening,Rainy,School Zone,9.8,Bad,0,0.96
+30,25,Evening,Rainy,Residential,2.5,Good,0,0.49
+30,29,Afternoon,Foggy,Residential,0.7,Good,0,0.54
+80,79,Evening,Foggy,School Zone,6.6,Moderate,1,0.84
+80,81,Morning,Foggy,Highway,6.0,Moderate,0,0.75
+50,54,Morning,Foggy,School Zone,4.2,Bad,0,0.87
+70,74,Afternoon,Clear,School Zone,4.2,Moderate,0,0.81
+30,28,Night,Foggy,School Zone,7.9,Moderate,1,0.84
+40,40,Morning,Rainy,Residential,2.0,Bad,0,0.71
+60,61,Night,Foggy,Highway,8.2,Moderate,0,0.79
+30,29,Afternoon,Clear,Highway,6.5,Moderate,0,0.68
+30,38,Night,Rainy,School Zone,4.2,Bad,0,0.91
+50,52,Night,Foggy,Residential,4.6,Bad,0,0.8
+70,73,Night,Foggy,School Zone,2.6,Good,0,0.76
+60,63,Night,Foggy,Residential,7.5,Bad,0,0.85
+80,85,Afternoon,Rainy,Residential,5.1,Good,1,0.82
+80,80,Morning,Rainy,Residential,3.2,Moderate,0,0.67
+40,34,Evening,Clear,Residential,6.0,Bad,0,0.62
+60,61,Night,Rainy,Highway,10.0,Bad,0,0.86
+80,77,Morning,Rainy,Residential,4.4,Bad,0,0.7
+40,38,Morning,Foggy,Residential,9.2,Moderate,0,0.75
+70,72,Afternoon,Rainy,School Zone,3.5,Good,1,0.81
+40,46,Morning,Foggy,School Zone,0.5,Moderate,0,0.81
+80,80,Afternoon,Foggy,Highway,2.0,Moderate,0,0.65
+50,51,Night,Rainy,School Zone,4.2,Bad,1,0.87
+50,58,Night,Clear,Residential,2.2,Good,0,0.73
+50,51,Evening,Clear,School Zone,0.0,Moderate,1,0.73
+80,93,Evening,Rainy,Highway,9.2,Bad,0,0.95
+50,52,Evening,Clear,School Zone,8.4,Moderate,0,0.84
+60,52,Morning,Foggy,School Zone,7.4,Moderate,0,0.68
+70,73,Night,Foggy,Highway,1.7,Bad,0,0.76
+40,41,Afternoon,Rainy,Highway,1.2,Bad,0,0.72
+40,46,Evening,Clear,Residential,0.7,Good,0,0.66
+80,83,Afternoon,Clear,School Zone,7.2,Moderate,0,0.83
+50,50,Afternoon,Foggy,Residential,9.3,Bad,1,0.87
+50,44,Evening,Rainy,School Zone,4.3,Bad,0,0.72
+30,29,Night,Clear,School Zone,1.2,Good,1,0.67
+70,66,Evening,Rainy,Residential,5.1,Good,0,0.58
+60,58,Afternoon,Clear,School Zone,3.5,Bad,0,0.74
+40,42,Evening,Foggy,School Zone,3.7,Good,0,0.76
+30,38,Afternoon,Foggy,School Zone,6.2,Bad,0,0.93
+30,31,Afternoon,Rainy,Highway,7.2,Moderate,1,0.82
+80,75,Evening,Foggy,Residential,1.1,Good,0,0.45
+40,42,Morning,Clear,Highway,0.4,Moderate,0,0.61
+80,85,Evening,Foggy,Residential,9.9,Moderate,0,0.87
+60,57,Morning,Rainy,Residential,2.3,Moderate,0,0.58
+30,30,Afternoon,Rainy,School Zone,0.5,Bad,0,0.76
+30,30,Afternoon,Rainy,Residential,1.9,Moderate,0,0.64
+70,67,Morning,Clear,Highway,0.4,Moderate,0,0.49
+60,63,Afternoon,Clear,Highway,3.9,Moderate,0,0.71
+30,30,Morning,Clear,Highway,8.0,Bad,0,0.79
+60,62,Morning,Clear,Residential,3.4,Moderate,0,0.68
+40,36,Afternoon,Clear,Highway,4.4,Moderate,0,0.56
+50,48,Night,Foggy,Residential,6.8,Good,1,0.73
+30,33,Morning,Clear,Highway,5.1,Bad,0,0.79
+70,69,Evening,Clear,Highway,8.6,Moderate,0,0.72
+40,48,Evening,Foggy,Residential,8.7,Good,0,0.87
+60,59,Afternoon,Clear,Highway,0.1,Bad,0,0.6
+80,81,Night,Rainy,School Zone,7.8,Bad,1,0.91
+40,44,Afternoon,Clear,Residential,4.6,Bad,0,0.8
+30,23,Night,Clear,Residential,9.9,Bad,0,0.69
+60,52,Morning,Rainy,Residential,4.8,Bad,0,0.59
+50,43,Morning,Rainy,School Zone,9.9,Bad,0,0.8
+40,46,Morning,Rainy,Residential,7.5,Moderate,0,0.85
+30,28,Morning,Rainy,Highway,2.5,Moderate,0,0.61
+70,82,Evening,Clear,Highway,5.4,Moderate,0,0.87
+80,78,Evening,Rainy,Highway,9.9,Moderate,0,0.77
+60,60,Afternoon,Rainy,Residential,8.6,Good,0,0.74
+40,47,Night,Foggy,Highway,1.0,Moderate,0,0.77
+40,50,Morning,Rainy,Residential,7.1,Bad,0,0.92
+50,60,Morning,Rainy,Highway,3.5,Moderate,0,0.85
+50,56,Night,Foggy,School Zone,0.1,Moderate,0,0.8
+70,75,Night,Foggy,School Zone,4.0,Bad,0,0.88
+80,82,Afternoon,Clear,School Zone,2.3,Moderate,0,0.74
+70,73,Night,Foggy,School Zone,8.2,Moderate,0,0.87
+30,28,Morning,Clear,Residential,3.4,Moderate,1,0.65
+30,26,Morning,Foggy,Highway,8.3,Good,1,0.72
+70,70,Morning,Foggy,School Zone,0.0,Moderate,0,0.69
