@@ -1,180 +1,211 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Speed Fine Predictor</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to right, #74ebd5, #ACB6E5);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      margin: 0;
-    }
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speed Fine Predictor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #f3e5f5, #e1bee7, #f8bbd0);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
 
-    .container {
-      background-color: #fff;
-      padding: 30px 40px;
-      border-radius: 15px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-      width: 90%;
-      max-width: 1000px;
-    }
+        .container {
+            background-color: #fff;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            padding: 30px 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            width: 90%;
+            max-width: 1000px;
+        }
 
-    h2 {
-      text-align: center;
-      margin-bottom: 30px;
-      color: #333;
-    }
+        h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
 
-    form {
-      display: flex;
-      gap: 40px;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
+        form {
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
 
-    .form-column {
-      flex: 1;
-      min-width: 300px;
-    }
+        .form-column {
+            flex: 1;
+            min-width: 300px;
+        }
 
-    label {
-      display: block;
-      margin: 15px 0 5px;
-      font-weight: bold;
-      color: #444;
-    }
+        label {
+            display: block;
+            margin: 15px 0 5px;
+            font-weight: bold;
+            color: #444;
+        }
 
-    input[type="number"],
-    select {
-      width: 100%;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      font-size: 14px;
-      box-sizing: border-box;
-    }
+        input[type="number"],
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            box-sizing: border-box;
+        }
 
-    .form-footer {
-      width: 100%;
-      text-align: center;
-      margin-top: 30px;
-    }
+        .form-footer {
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+        }
 
-    input[type="submit"] {
-      padding: 12px 30px;
-      background-color: #007BFF;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 16px;
-      font-weight: bold;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    }
+        input[type="submit"] {
+            padding: 12px 30px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
 
-    input[type="range"] {
-        width: 100%;
-        margin-top: 5px;
-        background: #e0e0e0;
-        height: 6px;
-        border-radius: 5px;
-        outline: none;
-        cursor: pointer;
+        input[type="range"] {
+            width: 100%;
+            margin-top: 5px;
+            background: #e0e0e0;
+            height: 6px;
+            border-radius: 5px;
+            outline: none;
+            cursor: pointer;
         }
 
 
-    input[type="submit"]:hover {
-      background-color: #0056b3;
-    }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
 
-    .result {
-      margin: 30px auto 0;
-      padding: 20px;
-      background-color: #f1f1f1;
-      border-left: 5px solid #28a745;
-      border-radius: 8px;
-      max-width: 500px;
-      text-align: center;
-    }
+        .result {
+            margin: 30px auto 0;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 500px;
+            text-align: center;
+            border-left: 5px solid;
+        }
 
-    .result h3 {
-      margin-top: 0;
-      color: #28a745;
-    }
+        .result.fine {
+            background-color: #f8d7da;
+            border-color: #dc3545;
+            color: #721c24;
+        }
 
-    .result p {
-      margin: 5px 0 0;
-      color: #333;
-    }
-  </style>
+        .result.warning {
+            background-color: #fff9e6;
+            border-color: #ffc107;
+            color: #856404;
+        }
+
+        .result.caution {
+            background-color: #fff3cd;
+            border-color: #fd7e14;
+            color: #874100;
+        }
+
+        .result.safe {
+            background-color: #e6f4ea;
+            border-color: #28a745;
+            color: #28a745;
+        }
+    </style>
 </head>
+
 <body>
-  <div class="container">
-    <h2>🚗 Speed Fine Prediction Form</h2>
-    <form method="POST" action="/predict">
-      <div class="form-column">
-        <label for="speed_limit">Speed Limit (km/h):</label>
-        <input type="number" name="speed_limit" required>
+    <div class="container">
+        <h2>🚗 Speed Fine Prediction Form</h2>
+        <form method="POST" action="/predict">
+            <div class="form-column">
+                <label for="speed_limit">Speed Limit (km/h):</label>
+                <input type="number" name="speed_limit" required>
 
-        <label for="vehicle_speed">Vehicle Speed (km/h):</label>
-        <input type="number" name="vehicle_speed" required>
+                <label for="vehicle_speed">Vehicle Speed (km/h):</label>
+                <input type="number" name="vehicle_speed" required>
 
-        <label for="time_of_day">Time of Day:</label>
-        <select name="time_of_day" required>
-          <option>Morning</option>
-          <option>Afternoon</option>
-          <option>Evening</option>
-          <option>Night</option>
-        </select>
+                <label for="time_of_day">Time of Day:</label>
+                <select name="time_of_day" required>
+                    <option>Morning</option>
+                    <option>Afternoon</option>
+                    <option>Evening</option>
+                    <option>Night</option>
+                </select>
 
-        <label for="weather">Weather:</label>
-        <select name="weather" required>
-          <option>Clear</option>
-          <option>Rainy</option>
-          <option>Foggy</option>
-          <option>Snowy</option>
-        </select>
-      </div>
+                <label for="weather">Weather:</label>
+                <select name="weather" required>
+                    <option>Clear</option>
+                    <option>Rainy</option>
+                    <option>Foggy</option>
+                    <option>Snowy</option>
+                </select>
+            </div>
 
-      <div class="form-column">
-        <label for="road_type">Road Type:</label>
-        <select name="road_type" required>
-          <option>Highway</option>
-          <option>Residential</option>
-          <option>School Zone</option>
-        </select>
+            <div class="form-column">
+                <label for="road_type">Road Type:</label>
+                <select name="road_type" required>
+                    <option>Highway</option>
+                    <option>Residential</option>
+                    <option>School Zone</option>
+                </select>
 
-        <label for="traffic_density">Traffic Density (0 to 1): <span id="traffic_val">0.5</span></label>
-        <input type="range" name="traffic_density" id="traffic_density" min="0" max="1" step="0.01" value="0.5" oninput="document.getElementById('traffic_val').innerText = this.value">
+                <label for="traffic_density">Traffic Density (0 to 1): <span id="traffic_val">0.5</span></label>
+                <input type="range" name="traffic_density" id="traffic_density" min="0" max="1" step="0.01" value="0.5"
+                    oninput="document.getElementById('traffic_val').innerText = this.value">
 
 
-        <label for="driver_history">Driver History:</label>
-        <select name="driver_history" required>
-          <option>Good</option>
-          <option>Moderate</option>
-          <option>Poor</option>
-        </select>
+                <label for="driver_history">Driver History:</label>
+                <select name="driver_history" required>
+                    <option>Good</option>
+                    <option>Moderate</option>
+                    <option>Poor</option>
+                </select>
 
-        <label for="area_sensitivity">Area Sensitivity (0 to 1): <span id="sensitivity_val">0.5</span></label>
-        <input type="range" name="area_sensitivity" id="area_sensitivity" min="0" max="1" step="0.01" value="0.5" oninput="document.getElementById('sensitivity_val').innerText = this.value">
-      </div>
+                <label for="area_sensitivity">Population Density (0 to 1): <span id="sensitivity_val">0.5</span></label>
+                <input type="range" name="area_sensitivity" id="area_sensitivity" min="0" max="1" step="0.01"
+                    value="0.5" oninput="document.getElementById('sensitivity_val').innerText = this.value">
+            </div>
 
-      <div class="form-footer">
-        <input type="submit" value="Predict">
-      </div>
-    </form>
+            <div class="form-footer">
+                <input type="submit" value="Predict">
+            </div>
+        </form>
 
-    {% if result %}
-    <div class="result">
-      <h3>Result: {{ result }}</h3>
-      <p>Fine Probability: {{ probability }}</p>
+        {% if result %}
+        <div class="result 
+            {% if 'Fine Likely' in result %}
+            fine
+            {% elif 'Warning' in result %}
+            warning
+            {% elif 'Caution' in result %}
+            caution
+            {% else %}
+            safe
+            {% endif %}
+        ">
+            <h3>Result: {{ result }}</h3>
+            <p>Fine Probability: {{ probability }}</p>
+        </div>
+        {% endif %}
+
     </div>
-    {% endif %}
-  </div>
 </body>
+
 </html>
