@@ -7,7 +7,7 @@ model = joblib.load('model.pkl')
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('index0.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -26,9 +26,18 @@ def predict():
     prediction = model.predict(input_df)[0]
     probability = model.predict_proba(input_df)[0][1]
 
-    result = "⚠️ Fine Likely" if prediction == 1 else "✅ Fine Unlikely"
+    # Custom message based on probability range
+    if probability > 0.7:
+        result = f"⚠️ Fine Likely – You were well over the limit!"
+    elif 0.5 < probability <= 0.7:
+        result = f"❗Warning – Speed nearing fine zone!"
+    elif 0.1 < probability <= 0.5:
+        result = f"ℹ️ Caution – You were fast, please slow down."
+    else:
+        result = f"✅ Fine Unlikely"
 
-    return render_template('index.html', result=result, probability=f"{probability:.2f}")
+    return render_template('index0.html', result=result, probability=f"{probability:.2f}")
+
 
 if __name__ == '__main__':
     app.run(debug=True)
